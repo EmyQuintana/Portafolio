@@ -22,7 +22,7 @@ Aquí están las herramientas que manejo:
 
 ## 📂 Proyectos Destacados
 
-### 1. []
+### 1. [Gestor Inventario]
 **Descripción:** Una aplicación web que permite a una empresa que vende skincae gestionar su inventario.
 **Tecnologías:** Python, SQL.
 - [Ver Código Fuente](https://github.com/EmyQuintana/Evaluaci-nModulo5.git)
