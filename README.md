@@ -22,18 +22,17 @@ Aquí están las herramientas que manejo:
 
 ## 📂 Proyectos Destacados
 
-### 1. [Gestor Inventario]
-**Descripción:** Una aplicación web que permite a una empresa que vende skincae gestionar su inventario.
-**Tecnologías:** Python, SQL.
+### 1. [Portal Educativo]
+**Descripción:** Una pagina web educativa
+**Tecnologías:** HTML, js, jquery, Boostrap5, CCS
 - [Ver Código Fuente](https://github.com/EmyQuintana/Evaluaci-nModulo5.git)
-  [Ver Demo en Vivo](Link-al-deploy)
 
 
 ### 2. [Explorador de Conocimientos Geografico]
 **Descripción:** Landing page diseñada para [entrenetencion sondeando cuanto conoces de cada lugar].
-**Tecnologías:** HTML, CSS, JavaScript.
+**Tecnologías:** HTML5 / CSS3 / Bootstrap 5 – Para el diseño frontend  Python 3.12 – Lenguaje principal de programación Django 5.2 – y Mysql parala gestion de datos. 
 - [Ver Código Fuente](https://github.com/EmyQuintana/Evaluaci-nPortafolio6.git)
-- [Ver Demo en Vivo](Link-al-deploy)
+- [Ver Demo en Vivo](https://mi-portafolio-django.onrender.com)
 
 ---
 
